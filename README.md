@@ -59,3 +59,5 @@ its a miniature model of a pico saterllite where it will be capturing the data l
         <td>-NA-</td>
     </tr>
 </table>
+
+### Total Budget of Version 1.0 Pico Satellite is: xxINR
