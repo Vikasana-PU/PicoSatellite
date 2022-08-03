@@ -41,12 +41,22 @@ body{
 
 .picoData{
     text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .picoData h1{
     color: #f7ffff;
     text-align: center;
     font-size: 60px;
+    height: auto;
+    margin: 20px 0px;
+    width: 100%;
+}
+.picoData h2{
+    color: #f7ffff;
+    text-align: center;
+    font-size: 19px;
     height: auto;
     margin: 20px 0px;
     width: 100%;
